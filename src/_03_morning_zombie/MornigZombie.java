@@ -1,3 +1,5 @@
+package _03_morning_zombie;
+
 import javax.swing.JOptionPane;
 
 public class MornigZombie {
